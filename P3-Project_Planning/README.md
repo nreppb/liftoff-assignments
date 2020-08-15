@@ -10,10 +10,14 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+ * P3-Project_Planning\MainPage.jpg
+ * P3-Project_Planning\AllViews.jpg
+ * P3-Project_Planning\ViewOneClass.jpg
+
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/05kiZ5iC/98ad32b916e9fa32f1c8648d81f4b047/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/nreppb/liftoff-project-fitness-class-website.git
